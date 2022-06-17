@@ -52,5 +52,4 @@
 
 
 ## Links
-* GitHub Repository: https://github.com/anthonypacella/MovieHunter
-* Deployed Page: https://anthonypacella.github.io/MovieHunter/
+* Deployed Page: https://banbanleelee.github.io/MovieHunter/
