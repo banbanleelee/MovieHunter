@@ -6,7 +6,10 @@
 * As an indecisive movie watcher, I want to see what the most popular movies of all-time are.
 * As a movie watcher ready to watch a specific movie, I want to know what streaming platform a particular movie is available on so that I can watch the movie.
 * As a movie watcher, I want to know general details of a movie when I search for it. 
-
+* 
+## Links
+* Deployed Page: https://banbanleelee.github.io/MovieHunter/
+* 
 ## User Interface Features
 
 * The home page includes a search bar that the user can use to search for any movie that they would like to receive additional details about.
@@ -40,16 +43,4 @@
 * CSS
 * JavaScript/jQuery
 
-## Mock-Up
 
-![](./images/Mock-Up-1.png)
-![](./images/Mock-Up-2.png)
-![](./images/Mock-Up-3.png)
-![](./images/Mock-Up-4.png)
-![](./images/Mock-Up-5.png)
-![](./images/Mock-Up-6.png)
-![](./images/Mock-Up-7.png)
-
-
-## Links
-* Deployed Page: https://banbanleelee.github.io/MovieHunter/
